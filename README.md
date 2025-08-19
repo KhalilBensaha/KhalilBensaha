@@ -1,16 +1,56 @@
-## Hi there 👋
 
-<!--
-**KhalilBensaha/KhalilBensaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Khalil 👋
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bensaha-khalil-a463412a4/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalilwadjih1@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Glad to see you here!
+Love building modern, scalable web applications and learning new technologies.  
+
+Talking about personal stuff:
+- 🌱 Currently working with **Next.js + TypeScript**  
+- 🛠 Building **full-stack apps** using modern tools (Next.js,TypeScript, Tailwind, SQL, firebase)  
+- 🚀 Passionate about **clean code**, **problem solving**, and **open-source**  
+- 💬 Ask me about **frontend performance**, **deployment (Vercel/Firebase)**, or **API integrations**  
+
+---
+
+### 📈 GitHub Stats
+![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3  
+- **Backend:** Node.js, Express, FastAPI  
+- **Databases:** PostgreSQL, Firebase  
+- **Deployment & Tools:** Git, GitHub, Vercel, Docker 
+
+---
+
+### 📌 Check out what I'm currently working on
+- ⚡ Next.js full-stack projects (auth, APIs, dashboards, e-commerce)  
+- 🌐 Real-time apps with FastAPI + WebSockets  
+- 🎨 UI/UX-driven projects with TailwindCSS and Framer Motion 
+
+---
+
+### 📂 Pinned Projects
+- [**club-events-manager-dz**](https://github.com/KhalilBensaha/club-events-manager-dz) – fullStack app with Next.js + TypeScript + fastAPI
+
+- [**workshop-2-Visa-Card-Using-JS-**](https://github.com/KhalilBensaha/workshop-2-Visa-Card-Using-JS-) – workshops that i was mentor in to create visualisation of animation using js
+
+---
+
+### 🌍 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/bensaha-khalil-a463412a4/)  
+- 📧 [Email Me](mailto:khalilwadjih1@gmail.com)  
+- 🌐 [Portfolio](https://yourwebsite.co)  
+
+---
+
+⭐️ From [KhalilBensaha](https://github.com/KhalilBensaha)
