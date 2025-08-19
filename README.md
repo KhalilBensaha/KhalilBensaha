@@ -19,8 +19,8 @@ Talking about personal stuff:
 ---
 
 ### 📈 GitHub Stats
-![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalilBensaha&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilBensaha&layout=compact&theme=radical)  
 
 ---
 
