@@ -21,7 +21,7 @@ Talking about personal stuff:
 ### 📈 GitHub Stats
 ![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalilBensaha&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilBensaha&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=KhalilBensaha&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KhalilBensaha&theme=radical)](https://git.io/streak-stats)
 
 
 
@@ -30,7 +30,7 @@ Talking about personal stuff:
 ### 🛠️ Tech Stack
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3  
 - **Backend:** Node.js, Express, FastAPI  
-- **Databases:** PostgreSQL, Firebase  
+- **Databases:** PostgreSQL, Firebase , supabase
 - **Deployment & Tools:** Git, GitHub, Vercel, Docker 
 
 ---
