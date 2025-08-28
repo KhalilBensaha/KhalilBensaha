@@ -22,9 +22,8 @@ Talking about personal stuff:
 ![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalilBensaha&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilBensaha&layout=compact&theme=radical)  
 [![GitHub Streak](https://github-readme-streak-stats-gilt-delta.vercel.app?user=KhalilBensaha&theme=radical&border_radius=4)](https://git.io/streak-stats)
-![trophy](https://github-profile-trophy.vercel.app/?username=KhalilBensaha&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=KhalilBensaha&theme=radical&margin-w=15&margin-h=15)
 
-![Profile views](https://komarev.com/ghpvc/?username=KhalilBensaha&color=blue)
 
 ---
 
