@@ -22,8 +22,9 @@ Talking about personal stuff:
 ![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalilBensaha&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilBensaha&layout=compact&theme=radical)  
 [![GitHub Streak](https://github-readme-streak-stats-gilt-delta.vercel.app?user=KhalilBensaha&theme=radical&border_radius=4)](https://git.io/streak-stats)
+![trophy](https://github-profile-trophy.vercel.app/?username=KhalilBensaha&theme=radical)
 
-
+![Profile views](https://komarev.com/ghpvc/?username=KhalilBensaha&color=blue)
 
 ---
 
@@ -41,6 +42,8 @@ Talking about personal stuff:
 - 🎨 UI/UX-driven projects with TailwindCSS and Framer Motion 
 
 ---
+![Snake animation](https://github.com/KhalilBensaha/KhalilBensaha/blob/output/github-contribution-grid-snake.svg)
+
 
 ### 📂 Pinned Projects
 - [**club-events-manager-dz**](https://github.com/KhalilBensaha/club-events-manager-dz) – fullStack app with Next.js + TypeScript + fastAPI
