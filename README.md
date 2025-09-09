@@ -26,7 +26,7 @@ Talking about personal stuff:
 
 ## 🔥 Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhalilBensaha&theme=radical&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KhalilBensaha&theme=radical&hide_border=false&t=1)](https://git.io/streak-stats)
 
 
 ----
