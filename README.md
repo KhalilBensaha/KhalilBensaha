@@ -18,8 +18,8 @@ Talking about personal stuff:
 
 ---
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats-c6d6.vercel.app/api/top-langs/?username=KhalilBensaha&layout=compact&theme=radical&cache_seconds=1800)
+## 📊 MOST used languages
+![Top Langs](https://github-readme-stats-gamma-eosin-50.vercel.app/api/top-langs/?username=KhalilBensaha&layout=compact&theme=radical&cache_seconds=1800)
 
 
 ----
