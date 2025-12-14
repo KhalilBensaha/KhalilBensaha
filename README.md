@@ -20,7 +20,7 @@ Talking about personal stuff:
 
 ## 📊 GITHUB status & MOST used languages
 ![status](https://github-readme-stats-gamma-eosin-50.vercel.app/api?username=KhalilBensaha&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-gamma-eosin-50.vercel.app/api/top-langs/?username=KhalilBensaha&layout=compact&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-gamma-eosin-50.vercel.app/api/top-langs/?username=KhalilBensaha&layout=compact&theme=radical&cache_seconds=1800&langs_count=10)
 
 
 ----
