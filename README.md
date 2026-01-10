@@ -12,15 +12,15 @@ Love building modern, scalable web applications and learning new technologies.
 
 Talking about personal stuff:
 - 🌱 Currently working with **Next.js + TypeScript**  
-- 🛠 Building **full-stack apps** using modern tools (Next.js,TypeScript, Tailwind, SQL, firebase)  
+- 🛠 Building **full-stack apps** using modern tools (Next.js,TypeScript, Tailwind, SQL, PHP, React.js, Astro.js, supabase & firebase)  
 - 🚀 Passionate about **clean code**, **problem solving**, and **open-source**  
-- 💬 Ask me about **frontend performance**, **deployment (Vercel/Firebase)**, or **API integrations**  
+- 💬 Ask me about **frontend performance**, **deployment**, or **API integrations**  
 
 ---
 
 ## 📊 GITHUB status & MOST used languages
 ![status](https://github-readme-stats-gamma-eosin-50.vercel.app/api?username=KhalilBensaha&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Langs](https://github-readme-stats-gamma-eosin-50.vercel.app/api/top-langs/?username=KhalilBensaha&layout=compact&theme=radical&cache_seconds=1800&langs_count=10)
+![Top Langs](https://github-readme-stats-gamma-eosin-50.vercel.app/api/top-langs/?username=KhalilBensaha&layout=compact&theme=radical&cache_seconds=1800&langs_count=12)
 
 
 ----
