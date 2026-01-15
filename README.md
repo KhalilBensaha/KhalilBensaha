@@ -27,7 +27,7 @@ Talking about personal stuff:
 
 ## 🔥 Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KhalilBensaha&theme=radical&cache_seconds=10000&hide_border=false&t=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KhalilBensaha&theme=radical&cache_seconds=86000&hide_border=false&t=1)](https://git.io/streak-stats)
 
 
 ----
@@ -35,8 +35,6 @@ Talking about personal stuff:
 ## 🏆 Trophies
 
 ![trophy](https://github-profile-trophy-git-main.ryo-ma.vercel.app/?username=KhalilBensaha&theme=radical)
-
-
 
 
 ---
@@ -96,7 +94,7 @@ Talking about personal stuff:
 
 
 ### 📂 Pinned Projects
-- [**club-events-manager-dz**](https://github.com/KhalilBensaha/club-events-manager-dz) – fullStack app with Next.js + TypeScript + fastAPI
+- [**club-events-manager-dz**](https://github.com/KhalilBensaha/club-events-manager-dz) – fullStack app with Next.js + TypeScript + fastAPI 
 
 - [**workshop-2-Visa-Card-Using-JS-**](https://github.com/KhalilBensaha/workshop-2-Visa-Card-Using-JS-) – workshops that i was mentor in to create visualisation of animation using js
 
@@ -106,7 +104,6 @@ Talking about personal stuff:
 - 💼 [LinkedIn](https://www.linkedin.com/in/bensaha-khalil-a463412a4/)  
 - 📧 [Email Me](mailto:khalilwadjih1@gmail.com)  
 - 🌐 [Portfolio](https://khalil-bensaha.vercel.app/)  
-
 ---
 
 ⭐️ From [KhalilBensaha](https://github.com/KhalilBensaha)
