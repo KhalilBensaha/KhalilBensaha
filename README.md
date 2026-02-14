@@ -25,20 +25,6 @@ Talking about personal stuff:
 
 ----
 
-## 🔥 Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KhalilBensaha&theme=radical&cache_seconds=8600&hide_border=false&t=1)](https://git.io/streak-stats)
-
-
-----
-
-## 🏆 Trophies
-
-![trophy](https://github-profile-trophy-git-main.ryo-ma.vercel.app/?username=KhalilBensaha&theme=radical)
-
-
----
-
 ### 🛠️ Tech Stack
 - **Frontend:** Next.js, Astro.js , React, TypeScript, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3  
 - **Backend:** Node.js, Php , Express, FastAPI  
