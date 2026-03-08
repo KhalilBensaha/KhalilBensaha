@@ -1,4 +1,3 @@
-
 # Hi there, I'm Khalil 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bensaha-khalil-a463412a4/)
@@ -17,11 +16,15 @@ Talking about personal stuff:
 - 💬 Ask me about **frontend performance**, **deployment**, or **API integrations**  
 
 ---
+## 📊 GITHUB Streak stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=khalilBensaha&theme=radical" />
+</p>
+
 
 ## 📊 GITHUB status & MOST used languages
 ![status](https://github-readme-stats-gamma-eosin-50.vercel.app/api?username=KhalilBensaha&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-gamma-eosin-50.vercel.app/api/top-langs/?username=KhalilBensaha&layout=compact&theme=radical&cache_seconds=1800&langs_count=12)
-
 
 ----
 
