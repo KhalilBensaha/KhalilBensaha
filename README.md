@@ -1,6 +1,6 @@
 # Hi there, I'm Khalil 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bensaha-khalil-a463412a4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalil-bensaha)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://khalil-bensaha.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalilwadjih1@gmail.com)
 
@@ -30,8 +30,8 @@ Talking about personal stuff:
 
 ### 🛠️ Tech Stack
 - **Frontend:** Next.js, Astro.js , React, TypeScript, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3  
-- **Backend:** Node.js, Php , Express, FastAPI  
-- **Databases:** PostgreSQL, Firebase , supabase
+- **Backend:** Node.js, Php , Express, Laravel   
+- **Databases:** PostgreSQL, Firebase , supabase, Mysql
 - **Deployment & Tools:** Git, GitHub, Vercel, Docker 
 
 ---
